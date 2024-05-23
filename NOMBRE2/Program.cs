@@ -44,6 +44,7 @@ namespace NOMBRE2
             {
                 if (arreglo[i] == valor)
                 {
+                   
                     return true;
                 }
             }

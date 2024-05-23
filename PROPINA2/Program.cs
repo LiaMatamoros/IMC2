@@ -51,7 +51,8 @@ namespace PROPINA2
                     break;
                     Console.WriteLine("====================================================");
                 default:
-                    Console.WriteLine("Opcion no valida"); break;
+                    Console.WriteLine("Opcion no valida"); 
+                    break;
 
             }
             Console.ReadLine();
